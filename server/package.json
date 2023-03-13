@@ -19,5 +19,5 @@
     "nodemon": "^2.0.21",
     "openai": "^3.2.1"
   },
-  "NODE_VERSION": "14.17.5"
+  "NODE_VERSION": "14.20.1"
 }
