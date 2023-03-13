@@ -22,6 +22,12 @@ const App = () => {
           <Route path="/create-post" element={<CreatePost />} />
         </Routes>
       </main>
+      <div class="p-6 text-center bg-[#d9d9d9] text-neutral-600">
+        © 2023 Copyright :
+        <a class="text-neutral-400" href="https://github.com/Prashant142">
+          &nbsp;Prashant Dhiman
+        </a>
+      </div>
     </BrowserRouter>
   );
 };
