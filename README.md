@@ -37,6 +37,7 @@ If it take some time to load please be patient.
 - Tailwind CSS
 - JavaScript
 - OpenAi API
+- Cloudinary
 
 ## How to Run the Application
 
